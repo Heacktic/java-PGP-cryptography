@@ -1,0 +1,29 @@
+Public-key cryptography, or asymmetric cryptography, is the field of cryptographic systems
+that use pairs of related keys. Each key pair consists of a public key and a corresponding
+private key. Key pairs are generated with cryptographic algorithms based on mathematical
+problems termed one-way functions. Security of public-key cryptography depends on keeping the
+private key secret; the public key can be openly distributed without compromising security.
+
+
+
+Pretty Good Privacy (PGP) is an encryption program that provides cryptographic privacy
+and authentication for data communication. PGP is used for signing, encrypting, and
+decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the
+security of e-mail communications. Phil Zimmermann developed PGP in 1991.[3]
+PGP and similar software follow the OpenPGP, an open standard of PGP encryption software,
+standard (RFC 4880) for encrypting and decrypting data.
+
+
+
+The Advanced Encryption Standard (AES), also known by its original name Rijndael
+(Dutch pronunciation: [ˈrɛindaːl]), is a specification for the encryption of electronic data
+established by the U.S. National Institute of Standards and Technology (NIST) in 2001.
+AES is a variant of the Rijndael block cipher developed by two Belgian cryptographers, Joan
+Daemen and Vincent Rijmen, who submitted a proposal to NIST during the AES selection process.
+Rijndael is a family of ciphers with different key and block sizes. For AES, NIST selected three
+members of the Rijndael family, each with a block size of 128 bits, but three different
+key lengths: 128, 192 and 256 bits. 
+
+
+
+thank steven for this horrible thing --> abcdefghijkmlnopqrst!?,altqrzxy79√🐢:)
